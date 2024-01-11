@@ -1,0 +1,15 @@
+C:\Project.Net\Parsing\bin\Debug\net8.0\Parsing.exe
+C:\Project.Net\Parsing\bin\Debug\net8.0\Parsing.deps.json
+C:\Project.Net\Parsing\bin\Debug\net8.0\Parsing.runtimeconfig.json
+C:\Project.Net\Parsing\bin\Debug\net8.0\Parsing.dll
+C:\Project.Net\Parsing\bin\Debug\net8.0\Parsing.pdb
+C:\Project.Net\Parsing\obj\Debug\net8.0\Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project.Net\Parsing\obj\Debug\net8.0\Parsing.AssemblyInfoInputs.cache
+C:\Project.Net\Parsing\obj\Debug\net8.0\Parsing.AssemblyInfo.cs
+C:\Project.Net\Parsing\obj\Debug\net8.0\Parsing.csproj.CoreCompileInputs.cache
+C:\Project.Net\Parsing\obj\Debug\net8.0\Parsing.sourcelink.json
+C:\Project.Net\Parsing\obj\Debug\net8.0\Parsing.dll
+C:\Project.Net\Parsing\obj\Debug\net8.0\refint\Parsing.dll
+C:\Project.Net\Parsing\obj\Debug\net8.0\Parsing.pdb
+C:\Project.Net\Parsing\obj\Debug\net8.0\Parsing.genruntimeconfig.cache
+C:\Project.Net\Parsing\obj\Debug\net8.0\ref\Parsing.dll
