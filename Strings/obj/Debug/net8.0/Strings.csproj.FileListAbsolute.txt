@@ -1,0 +1,15 @@
+C:\Project.Net\Strings\bin\Debug\net8.0\Strings.exe
+C:\Project.Net\Strings\bin\Debug\net8.0\Strings.deps.json
+C:\Project.Net\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+C:\Project.Net\Strings\bin\Debug\net8.0\Strings.dll
+C:\Project.Net\Strings\bin\Debug\net8.0\Strings.pdb
+C:\Project.Net\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project.Net\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+C:\Project.Net\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+C:\Project.Net\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+C:\Project.Net\Strings\obj\Debug\net8.0\Strings.sourcelink.json
+C:\Project.Net\Strings\obj\Debug\net8.0\Strings.dll
+C:\Project.Net\Strings\obj\Debug\net8.0\refint\Strings.dll
+C:\Project.Net\Strings\obj\Debug\net8.0\Strings.pdb
+C:\Project.Net\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+C:\Project.Net\Strings\obj\Debug\net8.0\ref\Strings.dll
