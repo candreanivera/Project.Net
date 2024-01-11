@@ -1,0 +1,15 @@
+C:\Project.Net\ParseDate\obj\Debug\net8.0\ParseDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project.Net\ParseDate\obj\Debug\net8.0\ParseDate.AssemblyInfoInputs.cache
+C:\Project.Net\ParseDate\obj\Debug\net8.0\ParseDate.AssemblyInfo.cs
+C:\Project.Net\ParseDate\obj\Debug\net8.0\ParseDate.csproj.CoreCompileInputs.cache
+C:\Project.Net\ParseDate\obj\Debug\net8.0\ParseDate.sourcelink.json
+C:\Project.Net\ParseDate\bin\Debug\net8.0\ParseDate.exe
+C:\Project.Net\ParseDate\bin\Debug\net8.0\ParseDate.deps.json
+C:\Project.Net\ParseDate\bin\Debug\net8.0\ParseDate.runtimeconfig.json
+C:\Project.Net\ParseDate\bin\Debug\net8.0\ParseDate.dll
+C:\Project.Net\ParseDate\bin\Debug\net8.0\ParseDate.pdb
+C:\Project.Net\ParseDate\obj\Debug\net8.0\ParseDate.dll
+C:\Project.Net\ParseDate\obj\Debug\net8.0\refint\ParseDate.dll
+C:\Project.Net\ParseDate\obj\Debug\net8.0\ParseDate.pdb
+C:\Project.Net\ParseDate\obj\Debug\net8.0\ParseDate.genruntimeconfig.cache
+C:\Project.Net\ParseDate\obj\Debug\net8.0\ref\ParseDate.dll
