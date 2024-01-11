@@ -1,0 +1,15 @@
+C:\Project.Net\FormattingDateTime\obj\Debug\net8.0\FormattingDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project.Net\FormattingDateTime\obj\Debug\net8.0\FormattingDateTime.AssemblyInfoInputs.cache
+C:\Project.Net\FormattingDateTime\obj\Debug\net8.0\FormattingDateTime.AssemblyInfo.cs
+C:\Project.Net\FormattingDateTime\obj\Debug\net8.0\FormattingDateTime.csproj.CoreCompileInputs.cache
+C:\Project.Net\FormattingDateTime\obj\Debug\net8.0\FormattingDateTime.sourcelink.json
+C:\Project.Net\FormattingDateTime\bin\Debug\net8.0\FormattingDateTime.exe
+C:\Project.Net\FormattingDateTime\bin\Debug\net8.0\FormattingDateTime.deps.json
+C:\Project.Net\FormattingDateTime\bin\Debug\net8.0\FormattingDateTime.runtimeconfig.json
+C:\Project.Net\FormattingDateTime\bin\Debug\net8.0\FormattingDateTime.dll
+C:\Project.Net\FormattingDateTime\bin\Debug\net8.0\FormattingDateTime.pdb
+C:\Project.Net\FormattingDateTime\obj\Debug\net8.0\FormattingDateTime.dll
+C:\Project.Net\FormattingDateTime\obj\Debug\net8.0\refint\FormattingDateTime.dll
+C:\Project.Net\FormattingDateTime\obj\Debug\net8.0\FormattingDateTime.pdb
+C:\Project.Net\FormattingDateTime\obj\Debug\net8.0\FormattingDateTime.genruntimeconfig.cache
+C:\Project.Net\FormattingDateTime\obj\Debug\net8.0\ref\FormattingDateTime.dll
