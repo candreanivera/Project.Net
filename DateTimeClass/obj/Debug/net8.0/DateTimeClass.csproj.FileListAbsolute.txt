@@ -1,0 +1,15 @@
+C:\Project.Net\DateTimeClass\bin\Debug\net8.0\DateTimeClass.exe
+C:\Project.Net\DateTimeClass\bin\Debug\net8.0\DateTimeClass.deps.json
+C:\Project.Net\DateTimeClass\bin\Debug\net8.0\DateTimeClass.runtimeconfig.json
+C:\Project.Net\DateTimeClass\bin\Debug\net8.0\DateTimeClass.dll
+C:\Project.Net\DateTimeClass\bin\Debug\net8.0\DateTimeClass.pdb
+C:\Project.Net\DateTimeClass\obj\Debug\net8.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project.Net\DateTimeClass\obj\Debug\net8.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\Project.Net\DateTimeClass\obj\Debug\net8.0\DateTimeClass.AssemblyInfo.cs
+C:\Project.Net\DateTimeClass\obj\Debug\net8.0\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\Project.Net\DateTimeClass\obj\Debug\net8.0\DateTimeClass.sourcelink.json
+C:\Project.Net\DateTimeClass\obj\Debug\net8.0\DateTimeClass.dll
+C:\Project.Net\DateTimeClass\obj\Debug\net8.0\refint\DateTimeClass.dll
+C:\Project.Net\DateTimeClass\obj\Debug\net8.0\DateTimeClass.pdb
+C:\Project.Net\DateTimeClass\obj\Debug\net8.0\DateTimeClass.genruntimeconfig.cache
+C:\Project.Net\DateTimeClass\obj\Debug\net8.0\ref\DateTimeClass.dll
